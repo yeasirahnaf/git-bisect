@@ -19,7 +19,7 @@ def divide(a, b):
 
 
 def subtract(a, b):
-    return a - b
+    return b - a  # BUG: Should be a - b
 
 def power(a, b):
     return a**b
