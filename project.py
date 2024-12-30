@@ -43,6 +43,7 @@ if __name__ == "__main__":
     print()
     print(modulo(7,3))
     print()
+    print(subtract(10,5))
 
 if __name__ == "__main__":
     print(add(2,3)) #5
