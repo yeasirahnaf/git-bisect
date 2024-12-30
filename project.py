@@ -17,7 +17,8 @@ def power(a, b):
     return a**b
 
 if __name__ == "__main__":
-    print(greet("World"))
+    name = input("Enter your name: ")
+    print(greet(name))
     print(add(2, 3))
     print(multiply(4, 5))
     print(divide(10, 2))
