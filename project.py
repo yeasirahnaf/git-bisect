@@ -1,5 +1,5 @@
 def greet(name):
-    return f"Hello, {name}!"
+    return f"Greetings, {name}!"
 
 def add(a, b):
     return a + b
