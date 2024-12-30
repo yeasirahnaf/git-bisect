@@ -40,3 +40,11 @@ if __name__ == "__main__":
     print()
     print(modulo(7,3))
     print()
+
+if __name__ == "__main__":
+    print(add(2,3))
+    print(multiply(4,5))
+    print(divide(10,2))
+    print(subtract(10,5))
+    print(power(2,3))
+    print(modulo(7,3))
