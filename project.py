@@ -1,5 +1,5 @@
 def add(a,b):
-    """Adds two numbers"""
+    """Adds two numbers a and b."""
 
 def greet(name):
     return f"Greetings, {name}!"
